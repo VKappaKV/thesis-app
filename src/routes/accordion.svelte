@@ -1,6 +1,6 @@
 <script lang="ts">
     import * as Accordion from "$lib/components/ui/accordion";
-   </script>
+</script>
     
    <Accordion.Root>
     <Accordion.Item value="item-1">
